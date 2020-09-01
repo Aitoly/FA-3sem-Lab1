@@ -1,0 +1,14 @@
+﻿  Task16.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask16\Task16.cpp(44,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask16\Task16.cpp(50,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask16\Task16.cpp(54,40): warning C4474: 'fprintf' : too many arguments passed for format string
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask16\Task16.cpp(54,40): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask16\Task16.cpp(56,39): warning C4474: 'fprintf' : too many arguments passed for format string
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask16\Task16.cpp(56,39): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask16\Task16.cpp(88,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask16\Task16.cpp(94,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask16\Task16.cpp(98,36): warning C4474: 'fprintf' : too many arguments passed for format string
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask16\Task16.cpp(98,36): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask16\Task16.cpp(100,35): warning C4474: 'fprintf' : too many arguments passed for format string
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask16\Task16.cpp(100,35): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  zTask16.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\Debug\zTask16.exe

@@ -1,0 +1,3 @@
+﻿  Task19.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\zTask19\Task19.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zTask19.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab1\Lab1\Debug\zTask19.exe
